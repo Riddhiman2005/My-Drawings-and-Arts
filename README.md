@@ -7,7 +7,7 @@ One way in which science and art intersect is in the act of observation. Both ar
 
 Drawings are a way of visually representing the natural world, allowing scientists to observe and record their observations in a way that words cannot fully express. Additionally, artists can use their drawings to visualize and express scientific concepts in a way that is both beautiful and informative.
 
-**Please read the Introduction Part before proceeding to the other files**
+### **Please read the Introduction Part before proceeding to the other files** ###
 
 ![image](https://github.com/Riddhiman2005/My-Drawings-and-Arts/assets/130882317/d5a6a11c-a11a-4193-9a16-62a4b5aa167b)
 
